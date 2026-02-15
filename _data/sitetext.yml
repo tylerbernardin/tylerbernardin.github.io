@@ -72,7 +72,7 @@ en: &DEFAULT_EN
       - title: "Safran Aerosystems Evacuation"
         year: "2023-Present"
         desc: "**Mechanical Design and Fabrication Engineer** <br> As a member of Safran’s Innovation Team, I develop novel manufacturing methods, fabricate proof-of-concept prototypes, and conduct performance testing to validate new technology for next-generation inflatable safety products."
-        image: assets/img/Safran Centered.png
+        image: assets/img/Safran, Centered.png
         alt:
         # you can enforce the alignment
         # align: left

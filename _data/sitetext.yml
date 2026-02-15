@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text:
-    body: <p align="justify"> <span style="color:black"> <font size="5"> <strong> Hi, my name is Tyler Bernardin. I’m a creator and problem solver from Southern California with a background in mechanical engineering. <br><br> I graduated from Cal State Long Beach in 2019 with a BS in Mechanical Engineering and have industry experience in 3D design, prototyping, fabrication, and manufacturing. Currently, I’m running a small business called Split Peak Designs where I make soft goods geared toward travel and adventure. <br><br> With a love for the outdoors and a passion for design, I’m interested in creating products and solutions that will have a positive effect on our environment.
+    body: <p align="justify"> <span style="color:black"> <font size="5"> <strong> Hi, my name is Tyler Bernardin. I’m a Mechanical Engineer with a passion for turning complex problems into tangible solutions. <br><br> I work for Safran Aerosystems Evacuation in New Jersey as a Research and Technology Engineer, developing next-generation life raft and evacuation slide fabrics and their accompanying manufacturing methods. I graduated from Cal State Long Beach in 2019 with a BS in Mechanical Engineering and have industry experience in 3D design, prototyping, fabrication, and manufacturing. <br><br> Outside of work, you can find me surfing, snowboarding, scuba diving, backpacking, or making custom gear for my ever-expanding list of hobbies.
           </strong></font></span> </p>
     section: about #
 

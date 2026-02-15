@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Split Peak Designs"
         year: "2022-Present"
-        desc: "**Owner** <br> This is a passion project of mine to design, create, and sell soft goods products for travel and the outdoors. Each product is made by hand, by me, with close attention to detail."
+        desc: "**Owner** <br> I created a small business to design, make, and sell soft goods products for travel and outdoor use. Each product was crafted by hand, by me, with close attention paid to the details."
         image: assets/img/Salt Water.jpg
         alt:
         # you can enforce the alignment

@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Portfolio"
+    - title: "Portfolio Test"
       section: portfolio
     - title: "Experience"
       section: timeline

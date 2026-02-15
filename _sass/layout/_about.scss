@@ -21,7 +21,9 @@ section#about {
   }
   p { //This is for the text body of the About page. For some reason it is "p".
     line-height: 25px;
-    margin: 0;
+    margin-bottom: auto;
+    margin-left: 0;
+    margin-right: 0;
     //text-align: right;
     //padding-left:40%;
   }

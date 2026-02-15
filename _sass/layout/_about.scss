@@ -14,7 +14,7 @@ section#about {
 
   }
   .large {
-    background-color: rgba(255, 255, 255, 0.85);
+    background-color: rgba(255, 255, 255, 0.50);
     border-radius: 12px;
     padding: 30px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -22,8 +22,8 @@ section#about {
   p { //This is for the text body of the About page. For some reason it is "p".
     line-height: 25px;
     margin-bottom: auto;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 30px;
+    margin-right: 30px;
     //text-align: right;
     //padding-left:40%;
   }

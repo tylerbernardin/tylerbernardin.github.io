@@ -13,6 +13,12 @@ section#about {
 
 
   }
+  .large {
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 12px;
+    padding: 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
   p { //This is for the text body of the About page. For some reason it is "p".
     line-height: 25px;
     margin-bottom: auto;

@@ -65,9 +65,14 @@ en: &DEFAULT_EN
         image: assets/img/Capsule.jpg
         alt:
       - title: "Split Peak Designs"
-        year: "2022-Present"
+        year: "2022-2023"
         desc: "**Owner** <br> I created a small business to design, make, and sell soft goods products for travel and outdoor use. Each product was crafted by hand, by me, with close attention paid to the details."
         image: assets/img/Salt Water.jpg
+        alt:
+      - title: "Safran Aerosystems Evacuation"
+        year: "2023-Present"
+        desc: "**Mechanical Design and Fabrication Engineer** <br> As a member of Safran’s Innovation Team, I develop novel manufacturing methods, fabricate proof-of-concept prototypes, and conduct performance testing to validate new technology for next-generation inflatable safety products."
+        image: assets/img/Safran.png
         alt:
         # you can enforce the alignment
         # align: left
